@@ -1,0 +1,22 @@
+[0.625s] Invoking command in '/home/koushik/colcon_ws/build/ur5_control': PYTHONPATH=/home/koushik/colcon_ws/build/ur5_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/koushik/colcon_ws/install/ur5_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/koushik/colcon_ws/build/ur5_control/build --no-deps symlink_data --force
+[0.833s] running develop
+[0.833s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.833s]   warnings.warn(
+[0.964s] running egg_info
+[0.965s] writing ur5_control.egg-info/PKG-INFO
+[0.965s] writing dependency_links to ur5_control.egg-info/dependency_links.txt
+[0.965s] writing entry points to ur5_control.egg-info/entry_points.txt
+[0.965s] writing requirements to ur5_control.egg-info/requires.txt
+[0.965s] writing top-level names to ur5_control.egg-info/top_level.txt
+[0.967s] reading manifest file 'ur5_control.egg-info/SOURCES.txt'
+[0.967s] writing manifest file 'ur5_control.egg-info/SOURCES.txt'
+[0.968s] running build_ext
+[0.968s] Creating /home/koushik/colcon_ws/install/ur5_control/lib/python3.10/site-packages/ur5-control.egg-link (link to .)
+[0.969s] Installing task1b script to /home/koushik/colcon_ws/install/ur5_control/lib/ur5_control
+[0.969s] 
+[0.969s] Installed /home/koushik/colcon_ws/build/ur5_control
+[0.969s] running symlink_data
+[0.969s] symbolically linking /home/koushik/colcon_ws/build/ur5_control/resource/ur5_control -> /home/koushik/colcon_ws/install/ur5_control/share/ament_index/resource_index/packages
+[0.969s] symbolically linking /home/koushik/colcon_ws/build/ur5_control/package.xml -> /home/koushik/colcon_ws/install/ur5_control/share/ur5_control
+[0.969s] symbolically linking /home/koushik/colcon_ws/build/ur5_control/ur5_control/__init__.py -> /home/koushik/colcon_ws/install/ur5_control/lib/ur5_control
+[1.036s] Invoked command in '/home/koushik/colcon_ws/build/ur5_control' returned '0': PYTHONPATH=/home/koushik/colcon_ws/build/ur5_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/koushik/colcon_ws/install/ur5_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/koushik/colcon_ws/build/ur5_control/build --no-deps symlink_data --force

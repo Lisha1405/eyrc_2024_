@@ -1,0 +1,27 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//launch/ebot_bringup_launch.py
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//config/ekf.yaml
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//config/mapper_params_online_async.yaml
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//maps/map.data
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//maps/map.pgm
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//maps/map.posegraph
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//maps/map.yaml
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//maps/map_file_here.text
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//params/nav2_params.yaml
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//rviz/nav2_default_view.rviz
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ament_index/resource_index/package_run_dependencies/ebot_nav2
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ament_index/resource_index/parent_prefix_path/ebot_nav2
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/environment/ament_prefix_path.sh
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/environment/ament_prefix_path.dsv
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/environment/path.sh
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/environment/path.dsv
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/local_setup.bash
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/local_setup.sh
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/local_setup.zsh
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/local_setup.dsv
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/package.dsv
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ament_index/resource_index/packages/ebot_nav2
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/cmake/ebot_nav2Config.cmake
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/cmake/ebot_nav2Config-version.cmake
+-- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/package.xml

@@ -1,0 +1,74 @@
+[0.023s] Invoking command in '/home/koushik/colcon_ws/build/ebot_nav2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake /home/koushik/colcon_ws/src/ebot_nav2 -DCMAKE_INSTALL_PREFIX=/home/koushik/colcon_ws/install/ebot_nav2
+[0.075s] -- The C compiler identification is GNU 11.4.0
+[0.125s] -- The CXX compiler identification is GNU 11.4.0
+[0.132s] -- Detecting C compiler ABI info
+[0.194s] -- Detecting C compiler ABI info - done
+[0.201s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.201s] -- Detecting C compile features
+[0.201s] -- Detecting C compile features - done
+[0.204s] -- Detecting CXX compiler ABI info
+[0.285s] -- Detecting CXX compiler ABI info - done
+[0.291s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.291s] -- Detecting CXX compile features
+[0.292s] -- Detecting CXX compile features - done
+[0.293s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.433s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.536s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[0.571s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.574s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.579s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.587s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.599s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.630s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.632s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.700s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.719s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.752s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.757s] -- Looking for pthread.h
+[0.830s] -- Looking for pthread.h - found
+[0.831s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.909s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.910s] -- Found Threads: TRUE  
+[0.948s] -- Found rclpy: 3.3.14 (/opt/ros/humble/share/rclpy/cmake)
+[0.949s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[0.973s] -- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+[0.974s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.040s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.040s] -- Added test 'lint_cmake' to check CMake code style
+[1.041s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.042s] -- Added test 'xmllint' to check XML markup files
+[1.043s] -- Configuring done
+[1.047s] -- Generating done
+[1.049s] -- Build files have been written to: /home/koushik/colcon_ws/build/ebot_nav2
+[1.065s] Invoked command in '/home/koushik/colcon_ws/build/ebot_nav2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake /home/koushik/colcon_ws/src/ebot_nav2 -DCMAKE_INSTALL_PREFIX=/home/koushik/colcon_ws/install/ebot_nav2
+[1.067s] Invoking command in '/home/koushik/colcon_ws/build/ebot_nav2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake --build /home/koushik/colcon_ws/build/ebot_nav2 -- -j16 -l16
+[1.101s] Invoked command in '/home/koushik/colcon_ws/build/ebot_nav2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake --build /home/koushik/colcon_ws/build/ebot_nav2 -- -j16 -l16
+[1.119s] Invoking command in '/home/koushik/colcon_ws/build/ebot_nav2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake --install /home/koushik/colcon_ws/build/ebot_nav2
+[1.127s] -- Install configuration: ""
+[1.127s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//launch
+[1.128s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//launch/ebot_bringup_launch.py
+[1.128s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//config
+[1.128s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//config/mapper_params_online_async.yaml
+[1.128s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//config/ekf.yaml
+[1.128s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//maps
+[1.128s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//maps/map_file_here.text
+[1.128s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//params
+[1.128s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//params/nav2_params.yaml
+[1.128s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//rviz
+[1.128s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//rviz/nav2_default_view.rviz
+[1.129s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ament_index/resource_index/package_run_dependencies/ebot_nav2
+[1.129s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ament_index/resource_index/parent_prefix_path/ebot_nav2
+[1.129s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/environment/ament_prefix_path.sh
+[1.129s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/environment/ament_prefix_path.dsv
+[1.129s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/environment/path.sh
+[1.129s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/environment/path.dsv
+[1.129s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/local_setup.bash
+[1.129s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/local_setup.sh
+[1.129s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/local_setup.zsh
+[1.129s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/local_setup.dsv
+[1.129s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/package.dsv
+[1.129s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ament_index/resource_index/packages/ebot_nav2
+[1.129s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/cmake/ebot_nav2Config.cmake
+[1.129s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/cmake/ebot_nav2Config-version.cmake
+[1.129s] -- Installing: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/package.xml
+[1.131s] Invoked command in '/home/koushik/colcon_ws/build/ebot_nav2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake --install /home/koushik/colcon_ws/build/ebot_nav2

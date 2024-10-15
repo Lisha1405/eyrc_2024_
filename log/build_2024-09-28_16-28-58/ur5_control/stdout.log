@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing ur5_control.egg-info/PKG-INFO
+writing dependency_links to ur5_control.egg-info/dependency_links.txt
+writing entry points to ur5_control.egg-info/entry_points.txt
+writing requirements to ur5_control.egg-info/requires.txt
+writing top-level names to ur5_control.egg-info/top_level.txt
+reading manifest file 'ur5_control.egg-info/SOURCES.txt'
+writing manifest file 'ur5_control.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/koushik/colcon_ws/install/ur5_control/lib/python3.10/site-packages/ur5-control.egg-link (link to .)
+Installing task1b script to /home/koushik/colcon_ws/install/ur5_control/lib/ur5_control
+
+Installed /home/koushik/colcon_ws/build/ur5_control
+running symlink_data
+symbolically linking /home/koushik/colcon_ws/build/ur5_control/resource/ur5_control -> /home/koushik/colcon_ws/install/ur5_control/share/ament_index/resource_index/packages
+symbolically linking /home/koushik/colcon_ws/build/ur5_control/package.xml -> /home/koushik/colcon_ws/install/ur5_control/share/ur5_control
+symbolically linking /home/koushik/colcon_ws/build/ur5_control/ur5_control/__init__.py -> /home/koushik/colcon_ws/install/ur5_control/lib/ur5_control

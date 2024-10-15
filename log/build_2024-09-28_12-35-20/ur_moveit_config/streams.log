@@ -1,0 +1,49 @@
+[0.009s] Invoking command in '/home/koushik/colcon_ws/build/ur_moveit_config': CMAKE_PREFIX_PATH=/home/koushik/colcon_ws/install/ur_description:/home/koushik/colcon_ws/install/ur_simulation_gazebo:/home/koushik/colcon_ws/install/ur_moveit_config:/home/koushik/colcon_ws/install/realsense_gazebo_plugin:/home/koushik/colcon_ws/install/pymoveit2:/home/koushik/colcon_ws/install/linkattacher_msgs:/home/koushik/colcon_ws/install/eyantra_warehouse:/home/koushik/colcon_ws/install/ebot_nav2:/home/koushik/colcon_ws/install/ebot_description:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake /home/koushik/colcon_ws/src/ur_moveit_config -DCMAKE_INSTALL_PREFIX=/home/koushik/colcon_ws/install/ur_moveit_config
+[0.053s] -- The C compiler identification is GNU 11.4.0
+[0.098s] -- The CXX compiler identification is GNU 11.4.0
+[0.106s] -- Detecting C compiler ABI info
+[0.160s] -- Detecting C compiler ABI info - done
+[0.169s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.169s] -- Detecting C compile features
+[0.170s] -- Detecting C compile features - done
+[0.173s] -- Detecting CXX compiler ABI info
+[0.245s] -- Detecting CXX compiler ABI info - done
+[0.250s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.251s] -- Detecting CXX compile features
+[0.251s] -- Detecting CXX compile features - done
+[0.253s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.381s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.456s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.512s] -- Configuring done
+[0.515s] -- Generating done
+[0.516s] -- Build files have been written to: /home/koushik/colcon_ws/build/ur_moveit_config
+[0.523s] Invoked command in '/home/koushik/colcon_ws/build/ur_moveit_config' returned '0': CMAKE_PREFIX_PATH=/home/koushik/colcon_ws/install/ur_description:/home/koushik/colcon_ws/install/ur_simulation_gazebo:/home/koushik/colcon_ws/install/ur_moveit_config:/home/koushik/colcon_ws/install/realsense_gazebo_plugin:/home/koushik/colcon_ws/install/pymoveit2:/home/koushik/colcon_ws/install/linkattacher_msgs:/home/koushik/colcon_ws/install/eyantra_warehouse:/home/koushik/colcon_ws/install/ebot_nav2:/home/koushik/colcon_ws/install/ebot_description:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake /home/koushik/colcon_ws/src/ur_moveit_config -DCMAKE_INSTALL_PREFIX=/home/koushik/colcon_ws/install/ur_moveit_config
+[0.524s] Invoking command in '/home/koushik/colcon_ws/build/ur_moveit_config': CMAKE_PREFIX_PATH=/home/koushik/colcon_ws/install/ur_description:/home/koushik/colcon_ws/install/ur_simulation_gazebo:/home/koushik/colcon_ws/install/ur_moveit_config:/home/koushik/colcon_ws/install/realsense_gazebo_plugin:/home/koushik/colcon_ws/install/pymoveit2:/home/koushik/colcon_ws/install/linkattacher_msgs:/home/koushik/colcon_ws/install/eyantra_warehouse:/home/koushik/colcon_ws/install/ebot_nav2:/home/koushik/colcon_ws/install/ebot_description:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake --build /home/koushik/colcon_ws/build/ur_moveit_config -- -j16 -l16
+[0.558s] Invoked command in '/home/koushik/colcon_ws/build/ur_moveit_config' returned '0': CMAKE_PREFIX_PATH=/home/koushik/colcon_ws/install/ur_description:/home/koushik/colcon_ws/install/ur_simulation_gazebo:/home/koushik/colcon_ws/install/ur_moveit_config:/home/koushik/colcon_ws/install/realsense_gazebo_plugin:/home/koushik/colcon_ws/install/pymoveit2:/home/koushik/colcon_ws/install/linkattacher_msgs:/home/koushik/colcon_ws/install/eyantra_warehouse:/home/koushik/colcon_ws/install/ebot_nav2:/home/koushik/colcon_ws/install/ebot_description:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake --build /home/koushik/colcon_ws/build/ur_moveit_config -- -j16 -l16
+[0.581s] Invoking command in '/home/koushik/colcon_ws/build/ur_moveit_config': CMAKE_PREFIX_PATH=/home/koushik/colcon_ws/install/ur_description:/home/koushik/colcon_ws/install/ur_simulation_gazebo:/home/koushik/colcon_ws/install/ur_moveit_config:/home/koushik/colcon_ws/install/realsense_gazebo_plugin:/home/koushik/colcon_ws/install/pymoveit2:/home/koushik/colcon_ws/install/linkattacher_msgs:/home/koushik/colcon_ws/install/eyantra_warehouse:/home/koushik/colcon_ws/install/ebot_nav2:/home/koushik/colcon_ws/install/ebot_description:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake --install /home/koushik/colcon_ws/build/ur_moveit_config
+[0.593s] -- Install configuration: ""
+[0.593s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/config
+[0.593s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/config/kinematics.yaml
+[0.593s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/launch
+[0.593s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/launch/ur_moveit.launch.py
+[0.593s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/rviz
+[0.593s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/rviz/view_robot.rviz
+[0.593s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/srdf
+[0.594s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/srdf/ur.srdf.xacro
+[0.594s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/srdf/ur_macro.srdf.xacro
+[0.594s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ament_index/resource_index/package_run_dependencies/ur_moveit_config
+[0.594s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ament_index/resource_index/parent_prefix_path/ur_moveit_config
+[0.594s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/environment/ament_prefix_path.sh
+[0.594s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/environment/ament_prefix_path.dsv
+[0.595s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/environment/path.sh
+[0.595s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/environment/path.dsv
+[0.595s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/local_setup.bash
+[0.595s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/local_setup.sh
+[0.595s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/local_setup.zsh
+[0.595s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/local_setup.dsv
+[0.595s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/package.dsv
+[0.595s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ament_index/resource_index/packages/ur_moveit_config
+[0.595s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/cmake/ur_moveit_configConfig.cmake
+[0.595s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/cmake/ur_moveit_configConfig-version.cmake
+[0.596s] -- Installing: /home/koushik/colcon_ws/install/ur_moveit_config/share/ur_moveit_config/package.xml
+[0.602s] Invoked command in '/home/koushik/colcon_ws/build/ur_moveit_config' returned '0': CMAKE_PREFIX_PATH=/home/koushik/colcon_ws/install/ur_description:/home/koushik/colcon_ws/install/ur_simulation_gazebo:/home/koushik/colcon_ws/install/ur_moveit_config:/home/koushik/colcon_ws/install/realsense_gazebo_plugin:/home/koushik/colcon_ws/install/pymoveit2:/home/koushik/colcon_ws/install/linkattacher_msgs:/home/koushik/colcon_ws/install/eyantra_warehouse:/home/koushik/colcon_ws/install/ebot_nav2:/home/koushik/colcon_ws/install/ebot_description:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake --install /home/koushik/colcon_ws/build/ur_moveit_config

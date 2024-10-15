@@ -1,0 +1,51 @@
+Built target ament_cmake_python_symlink_pymoveit2
+running egg_info
+writing pymoveit2.egg-info/PKG-INFO
+writing dependency_links to pymoveit2.egg-info/dependency_links.txt
+writing top-level names to pymoveit2.egg-info/top_level.txt
+reading manifest file 'pymoveit2.egg-info/SOURCES.txt'
+writing manifest file 'pymoveit2.egg-info/SOURCES.txt'
+Built target ament_cmake_python_build_pymoveit2_egg
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/share/pymoveit2/environment/pythonpath.sh
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/share/pymoveit2/environment/pythonpath.dsv
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-2.1.0-py3.10.egg-info/PKG-INFO
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-2.1.0-py3.10.egg-info/SOURCES.txt
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-2.1.0-py3.10.egg-info/dependency_links.txt
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-2.1.0-py3.10.egg-info/top_level.txt
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/__init__.py
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2.py
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2_servo.py
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/__init__.py
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/kinova.py
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/ur5.py
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/lib/pymoveit2/ex_collision_object.py
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/lib/pymoveit2/ex_joint_goal.py
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/lib/pymoveit2/ex_pose_goal.py
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/lib/pymoveit2/ex_servo.py
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/lib/pymoveit2/assets/box.stl
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/lib/pymoveit2/assets/box1.stl
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/lib/pymoveit2/assets/box2.stl
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/lib/pymoveit2/assets/box3.stl
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/lib/pymoveit2/assets/rack.stl
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/lib/pymoveit2/assets/rack_box.stl
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/lib/pymoveit2/assets/rack_box_again.stl
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/lib/pymoveit2/assets/suzanne.stl
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/share/ament_index/resource_index/package_run_dependencies/pymoveit2
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/share/ament_index/resource_index/parent_prefix_path/pymoveit2
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/share/pymoveit2/environment/ament_prefix_path.sh
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/share/pymoveit2/environment/ament_prefix_path.dsv
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/share/pymoveit2/environment/path.sh
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/share/pymoveit2/environment/path.dsv
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/share/pymoveit2/local_setup.bash
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/share/pymoveit2/local_setup.sh
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/share/pymoveit2/local_setup.zsh
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/share/pymoveit2/local_setup.dsv
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/share/pymoveit2/package.dsv
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/share/ament_index/resource_index/packages/pymoveit2
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/share/pymoveit2/cmake/pymoveit2Config.cmake
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/share/pymoveit2/cmake/pymoveit2Config-version.cmake
+-- Symlinking: /home/koushik/colcon_ws/install/pymoveit2/share/pymoveit2/package.xml
+Listing '/home/koushik/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2'...
+Listing '/home/koushik/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots'...

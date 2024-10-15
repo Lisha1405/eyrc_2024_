@@ -1,0 +1,1 @@
+Invoking command in '/home/koushik/colcon_ws/build/linkattacher_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake /home/koushik/colcon_ws/src/linkattacher_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/koushik/colcon_ws/install/linkattacher_msgs

@@ -1,0 +1,21 @@
+[0.450s] Invoking command in '/home/koushik/colcon_ws/src/ur5_control': PYTHONPATH=/home/koushik/colcon_ws/build/ur5_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/koushik/colcon_ws/install/ur5_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ur5_control build --build-base /home/koushik/colcon_ws/build/ur5_control/build install --record /home/koushik/colcon_ws/build/ur5_control/install.log --single-version-externally-managed install_data
+[0.583s] running egg_info
+[0.584s] writing ../../build/ur5_control/ur5_control.egg-info/PKG-INFO
+[0.584s] writing dependency_links to ../../build/ur5_control/ur5_control.egg-info/dependency_links.txt
+[0.584s] writing entry points to ../../build/ur5_control/ur5_control.egg-info/entry_points.txt
+[0.584s] writing requirements to ../../build/ur5_control/ur5_control.egg-info/requires.txt
+[0.584s] writing top-level names to ../../build/ur5_control/ur5_control.egg-info/top_level.txt
+[0.585s] reading manifest file '../../build/ur5_control/ur5_control.egg-info/SOURCES.txt'
+[0.585s] writing manifest file '../../build/ur5_control/ur5_control.egg-info/SOURCES.txt'
+[0.585s] running build
+[0.585s] running build_py
+[0.585s] running install
+[0.585s] running install_lib
+[0.586s] running install_data
+[0.586s] running install_egg_info
+[0.587s] removing '/home/koushik/colcon_ws/install/ur5_control/lib/python3.10/site-packages/ur5_control-0.0.0-py3.10.egg-info' (and everything under it)
+[0.587s] Copying ../../build/ur5_control/ur5_control.egg-info to /home/koushik/colcon_ws/install/ur5_control/lib/python3.10/site-packages/ur5_control-0.0.0-py3.10.egg-info
+[0.588s] running install_scripts
+[0.599s] Installing task1b script to /home/koushik/colcon_ws/install/ur5_control/lib/ur5_control
+[0.599s] writing list of installed files to '/home/koushik/colcon_ws/build/ur5_control/install.log'
+[0.612s] Invoked command in '/home/koushik/colcon_ws/src/ur5_control' returned '0': PYTHONPATH=/home/koushik/colcon_ws/build/ur5_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/koushik/colcon_ws/install/ur5_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ur5_control build --build-base /home/koushik/colcon_ws/build/ur5_control/build install --record /home/koushik/colcon_ws/build/ur5_control/install.log --single-version-externally-managed install_data

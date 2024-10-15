@@ -1,0 +1,4 @@
+[console_scripts]
+move_ur5 = ur5_control.move_ur5:main
+task1b = ur5_control.task1b_boiler_plate:main
+

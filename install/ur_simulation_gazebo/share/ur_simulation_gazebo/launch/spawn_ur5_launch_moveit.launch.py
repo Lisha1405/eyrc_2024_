@@ -1,0 +1,1 @@
+/home/koushik/colcon_ws/src/ur_simulation_gazebo/launch/spawn_ur5_launch_moveit.launch.py

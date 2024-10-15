@@ -1,0 +1,32 @@
+[0.039s] Invoking command in '/home/koushik/colcon_ws/build/ebot_nav2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake --build /home/koushik/colcon_ws/build/ebot_nav2 -- -j16 -l16
+[0.315s] Invoked command in '/home/koushik/colcon_ws/build/ebot_nav2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake --build /home/koushik/colcon_ws/build/ebot_nav2 -- -j16 -l16
+[0.360s] Invoking command in '/home/koushik/colcon_ws/build/ebot_nav2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake --install /home/koushik/colcon_ws/build/ebot_nav2
+[0.379s] -- Install configuration: ""
+[0.381s] -- Execute custom install script
+[0.381s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//launch/ebot_bringup_launch.py
+[0.382s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//config/ekf.yaml
+[0.383s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//config/mapper_params_online_async.yaml
+[0.384s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//maps/map.data
+[0.385s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//maps/map.pgm
+[0.385s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//maps/map.posegraph
+[0.385s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//maps/map.yaml
+[0.386s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//maps/map_file_here.text
+[0.387s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//params/nav2_params.yaml
+[0.387s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2//rviz/nav2_default_view.rviz
+[0.387s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/lib/ebot_nav2/ebot_nav_cmd.py
+[0.387s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ament_index/resource_index/package_run_dependencies/ebot_nav2
+[0.387s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ament_index/resource_index/parent_prefix_path/ebot_nav2
+[0.389s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/environment/ament_prefix_path.sh
+[0.390s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/environment/ament_prefix_path.dsv
+[0.390s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/environment/path.sh
+[0.390s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/environment/path.dsv
+[0.390s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/local_setup.bash
+[0.390s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/local_setup.sh
+[0.390s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/local_setup.zsh
+[0.394s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/local_setup.dsv
+[0.394s] -- Symlinking: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/package.dsv
+[0.422s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ament_index/resource_index/packages/ebot_nav2
+[0.422s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/cmake/ebot_nav2Config.cmake
+[0.423s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/cmake/ebot_nav2Config-version.cmake
+[0.423s] -- Up-to-date symlink: /home/koushik/colcon_ws/install/ebot_nav2/share/ebot_nav2/package.xml
+[0.441s] Invoked command in '/home/koushik/colcon_ws/build/ebot_nav2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake --install /home/koushik/colcon_ws/build/ebot_nav2

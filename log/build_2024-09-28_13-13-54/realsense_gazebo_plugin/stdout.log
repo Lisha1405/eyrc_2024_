@@ -1,0 +1,3 @@
+[35m[1mConsolidate compiler generated dependencies of target realsense_gazebo_plugin[0m
+[ 33%] [32m[1mLinking CXX shared library librealsense_gazebo_plugin.so[0m
+[100%] Built target realsense_gazebo_plugin

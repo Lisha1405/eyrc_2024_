@@ -1,0 +1,12 @@
+[0.034s] Invoking command in '/home/koushik/colcon_ws/build/linkattacher_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake --build /home/koushik/colcon_ws/build/linkattacher_msgs -- -j16 -l16
+[0.067s] [35m[1mConsolidate compiler generated dependencies of target linkattacher_msgs__rosidl_generator_c[0m
+[0.074s] failed to create symbolic link '/home/koushik/colcon_ws/build/linkattacher_msgs/ament_cmake_python/linkattacher_msgs/linkattacher_msgs' because existing path cannot be removed: Is a directory
+[0.075s] [  2%] Built target linkattacher_msgs__cpp
+[0.075s] gmake[2]: *** [CMakeFiles/ament_cmake_python_symlink_linkattacher_msgs.dir/build.make:70: CMakeFiles/ament_cmake_python_symlink_linkattacher_msgs] Error 1
+[0.075s] gmake[1]: *** [CMakeFiles/Makefile2:421: CMakeFiles/ament_cmake_python_symlink_linkattacher_msgs.dir/all] Error 2
+[0.075s] gmake[1]: *** Waiting for unfinished jobs....
+[0.077s] [ 12%] Built target linkattacher_msgs__rosidl_generator_c
+[0.082s] [35m[1mConsolidate compiler generated dependencies of target linkattacher_msgs__rosidl_typesupport_cpp[0m
+[0.093s] [ 23%] Built target linkattacher_msgs__rosidl_typesupport_cpp
+[0.094s] gmake: *** [Makefile:146: all] Error 2
+[0.262s] Invoked command in '/home/koushik/colcon_ws/build/linkattacher_msgs' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake --build /home/koushik/colcon_ws/build/linkattacher_msgs -- -j16 -l16

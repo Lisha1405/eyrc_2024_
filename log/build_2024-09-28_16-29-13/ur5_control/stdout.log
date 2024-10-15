@@ -1,0 +1,28 @@
+running develop
+Removing /home/koushik/colcon_ws/install/ur5_control/lib/python3.10/site-packages/ur5-control.egg-link (link to .)
+running egg_info
+writing ../../build/ur5_control/ur5_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/ur5_control/ur5_control.egg-info/dependency_links.txt
+writing entry points to ../../build/ur5_control/ur5_control.egg-info/entry_points.txt
+writing requirements to ../../build/ur5_control/ur5_control.egg-info/requires.txt
+writing top-level names to ../../build/ur5_control/ur5_control.egg-info/top_level.txt
+reading manifest file '../../build/ur5_control/ur5_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/ur5_control/ur5_control.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+creating /home/koushik/colcon_ws/install/ur5_control/lib/python3.10/site-packages/ur5_control
+copying /home/koushik/colcon_ws/build/ur5_control/build/lib/ur5_control/__init__.py -> /home/koushik/colcon_ws/install/ur5_control/lib/python3.10/site-packages/ur5_control
+copying /home/koushik/colcon_ws/build/ur5_control/build/lib/ur5_control/task1b_boiler_plate.py -> /home/koushik/colcon_ws/install/ur5_control/lib/python3.10/site-packages/ur5_control
+byte-compiling /home/koushik/colcon_ws/install/ur5_control/lib/python3.10/site-packages/ur5_control/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/koushik/colcon_ws/install/ur5_control/lib/python3.10/site-packages/ur5_control/task1b_boiler_plate.py to task1b_boiler_plate.cpython-310.pyc
+running install_data
+copying resource/ur5_control -> /home/koushik/colcon_ws/install/ur5_control/share/ament_index/resource_index/packages
+copying package.xml -> /home/koushik/colcon_ws/install/ur5_control/share/ur5_control
+copying ur5_control/__init__.py -> /home/koushik/colcon_ws/install/ur5_control/lib/ur5_control
+running install_egg_info
+Copying ../../build/ur5_control/ur5_control.egg-info to /home/koushik/colcon_ws/install/ur5_control/lib/python3.10/site-packages/ur5_control-0.0.0-py3.10.egg-info
+running install_scripts
+Installing task1b script to /home/koushik/colcon_ws/install/ur5_control/lib/ur5_control
+writing list of installed files to '/home/koushik/colcon_ws/build/ur5_control/install.log'

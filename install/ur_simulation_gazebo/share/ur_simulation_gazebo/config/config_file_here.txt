@@ -1,0 +1,1 @@
+/home/koushik/colcon_ws/src/ur_simulation_gazebo/config/config_file_here.txt

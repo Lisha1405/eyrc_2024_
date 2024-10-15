@@ -1,0 +1,1 @@
+Invoking command in '/home/koushik/colcon_ws/build/ebot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/koushik/colcon_ws/install/ur5_control:/opt/ros/humble /usr/bin/cmake /home/koushik/colcon_ws/src/ebot_description -DCMAKE_INSTALL_PREFIX=/home/koushik/colcon_ws/install/ebot_description
